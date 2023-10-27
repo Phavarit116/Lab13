@@ -1,0 +1,27 @@
+h1 {
+    font-size: 64px;
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+.Picture {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+}
+
+.content {
+    text-align: center;
+    font-size: 30px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+}
+
+.myDiv {
+    border: 7px outset rgb(0, 0, 0);
+    background-color: rgb(0, 0, 0);
+    text-align: center;
+}
+body {
+    background-color: rgb(0, 0, 0);
+}
